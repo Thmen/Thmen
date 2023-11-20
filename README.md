@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-👨‍💼 I'm now working at EDA R&D Center of [Hisilicon Tech. Co., Ltd.](https://www.hisilicon.com/en/about-us/company/) <img src='https://www.hisilicon.com/-/media/Hisilicon2020/Images/component/home/logo/logo.svg' style='width: 5em;'>, which is one of the most competitive fabless semiconductors company all over the world (Biggest IC Design House in China), leading a lithography modeling group. 
+👨‍💼 I'm now working at EDA R&D Center of [Hisilicon Tech. Co., Ltd.](https://www.hisilicon.com/en/about-us/company/) <img src='images/hisilicon.jpg' style='width: 5em;'>, which is one of the most competitive fabless semiconductors company all over the world (Biggest IC Design House in China), leading a lithography modeling group. 
 
-👨‍🎓 I graduated from [School of Electronic Science & Engineering](https://electronic.seu.edu.cn/dz_en/main.psp), Southeast University (SEU) with a bachelor's degree (2014) and a master's degree (2018), advised by Prof. [Tang Yongming (汤勇明)](https://electronic.seu.edu.cn/tym_en/list.htm). I also collaborate with [Wang Chengcheng (王成诚)]() working at [T-Head](https://www.t-head.cn/) <img src='https://gw.alipayobjects.com/mdn/rms_d65887/afts/img/A*8bV4TLjScl8AAAAAAAAAAAAAARQnAQ' style="width: 5em;">, [Li He (李鹤)](https://display.seu.edu.cn/2023/0130/c44838a434097/page.htm) from [University of Cambridge](https://www.cam.ac.uk/) <img src='https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg' style="width: 5em;">, and [Yu Feng (俞峰)]() from [NUS](https://www.nus.edu.sg/) <img src='https://www.nus.edu.sg/images/default-source/base/logo.png' style="width: 3em;"> closely.
+👨‍🎓 I graduated from [School of Electronic Science & Engineering](https://electronic.seu.edu.cn/dz_en/main.psp), Southeast University (SEU) with a bachelor's degree (2014) and a master's degree (2018), advised by Prof. [Tang Yongming (汤勇明)](https://electronic.seu.edu.cn/tym_en/list.htm). I also collaborate with [Wang Chengcheng (王成诚)]() working at [T-Head](https://www.t-head.cn/) <img src='images/T-Head.jpg' style="width: 5em;">, [Li He (李鹤)](https://display.seu.edu.cn/2023/0130/c44838a434097/page.htm) from [University of Cambridge](https://www.cam.ac.uk/) <img src='images/cambridge.jpg' style="width: 5em;">, and [Yu Feng (俞峰)]() from [NUS](https://www.nus.edu.sg/) <img src='images/nus.jpg' style="width: 2.5em;"> closely.
 
 🎯 My research interest includes reconfigurable computing (especially using FPGA), image & video super-resolution (ISR & VSR), resolution enhancement technology (RET) and electronic design automation. Now, my current research direction is computational lithography in *Hisilicon*, which is also known as OPC in the field of semiconductor design and manufacturing. I have published 10+ papers <a href='https://scholar.google.com/citations?user=xzNONgcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fthmen%2Fthmen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="width: 6em;"></a> at the top international conferences such as ASAP, FCCM, ICCSS.
 
@@ -58,14 +58,10 @@
 
 ---
 
-<div class="container">
-    <div class="left">
-    <img alt="GitHub Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=Thmen&show_icons=true" height="600">
-    </div>
-    <div class="right">
-    <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmen&theme=white-green" height="600">
-    </div>
-</div>
+<table><tr>
+    <td><img alt="GitHub Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=Thmen&show_icons=true" height="300"></td>
+    <td><img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmen&theme=white-green" height="300"></td>
+</tr></table>
 
 ---
 
