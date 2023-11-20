@@ -6,9 +6,11 @@
 
 🎯 My research interest includes reconfigurable computing (especially using FPGA), image & video super-resolution (ISR & VSR), resolution enhancement technology (RET) and electronic design automation. Now, my current research direction is computational lithography in *Hisilicon*, which is also known as OPC in the field of semiconductor design and manufacturing. I have published 10+ papers <a href='https://scholar.google.com/citations?user=xzNONgcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fthmen%2Fthmen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="width: 6em;"></a> at the top international conferences such as ASAP, FCCM, ICCSS.
 
+---
+
 ### 📇 Homepages
-- Personal Pages: [🔗 thmen.github.io](https://thmen.github.io) (Updated Recently 🔥)
-- Google Scholar: [🎓 My profile](https://scholar.google.com/citations?user=xzNONgcAAAAJ) (Welcome to Cite)
+- Personal Pages: 🔗 [thmen.github.io](https://thmen.github.io) (Updated Recently 🔥)
+- Google Scholar: 🎓 [my profile](https://scholar.google.com/citations?user=xzNONgcAAAAJ) (Welcome to Cite)
 <!-- - Linkedin: https://www.linkedin.com/in/xxx -->
 <!-- - DBLP: https://dblp.org/pid/xx/xxxx-x.html -->
 
@@ -18,6 +20,8 @@
 - *2021.09*: 💼 I join [Hisilicon's EDA Team](https://www.hisilicon.com/en/about-us/company/) <img src='https://www.hisilicon.com/-/media/Hisilicon2020/Images/component/home/logo/logo.svg' style='width: 5em;'> as an AI researcher in Shanghai!
 - *2021.07*: 📣 We release [EGVSR](https://github.com/Thmen/EGVSR) on Github (Welcome to STAR and FORK)!
 
+---
+
 ### 📑 Selected Research Papers 
 
 > My full paper list is shown at my [personal homepage](https://thmen.github.io) or [google scholar](https://scholar.google.com/citations?user=xzNONgcAAAAJ).
@@ -25,6 +29,10 @@
 #### 🖥️ Super Resolution
 - ``ASAP 2021``, [Real-time Super-resolution System of 4K-video Based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/9516670), **Yanpeng Cao**, C. Wang, C. Song, Y. Tang, H. Li. \| [![Static Badge](https://img.shields.io/badge/arxiv-access-%23B31B1B?logo=arxiv&labelColor=%23B31B1B&color=%23222222)
 ](https://arxiv.org/abs/2107.05307) \| [![Github](https://img.shields.io/github/stars/Thmen/EGVSR?style=social&label=EGVSR+Stars)](https://github.com/Thmen/EGVSR)
+
+<details>
+<summary> More Papers ...</summary>
+
 - ``ASSC 2021``, Dynamic Weight of Adaptive Information Density Network for Image Super-Resolution, C. Wang, **Yanpeng Cao**, F. Yu, Y. Tang.
 - ``ICDT 2020``, Deep Learning Based Video Super Resolution: A Survey, **Yanpeng Cao**, F. Yu, Y. Tang.
 
@@ -45,3 +53,24 @@
 #### 🥽 Augmented Reality
 - ``TALE 2018``, A Novel Augmented Reality Guidance System for Future Informatization Experimental Teaching, **Yanpeng Cao**, Y. Tang, Y. Xie.
 - ``IDW 2018``, Design of Machine Vision Aided Measurement System for Near-eye Display Devices, S. Hu, Q. Zhu, **Yanpeng Cao**, Y. Tang, Y. Zheng.
+
+</details>
+
+---
+
+<div class="container">
+    <div class="left">
+    <img alt="GitHub Repository's Stats" src="https://github-readme-stats.vercel.app/api?username=Thmen&show_icons=true" height="600">
+    </div>
+    <div class="right">
+    <img alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmen&theme=white-green" height="600">
+    </div>
+</div>
+
+---
+
+### 💖 Thanks for your visit.
+
+![](http://profile-counter.glitch.me/thmen/count.svg)
+
+Please give me a **Star** ⭐ if you like~
