@@ -11,6 +11,7 @@
 ### 📇 Homepages
 - Personal Pages: 🔗 [thmen.github.io](https://thmen.github.io) (Updated Recently 🔥)
 - Google Scholar: 🎓 [my profile](https://scholar.google.com/citations?user=xzNONgcAAAAJ) (Welcome to CITE)
+- CSDN Blog: &emsp;&ensp; 📚 [THmen](https://blog.csdn.net/thmen)
 <!-- - Linkedin: https://www.linkedin.com/in/xxx -->
 <!-- - DBLP: https://dblp.org/pid/xx/xxxx-x.html -->
 
