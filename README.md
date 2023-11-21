@@ -2,15 +2,15 @@
 
 👨‍💼 I'm now working at EDA R&D Center of [Hisilicon Tech. Co., Ltd.](https://www.hisilicon.com/en/about-us/company/) <img src='images/hisilicon.jpg' style='width: 5em;'>, which is one of the most competitive fabless semiconductors company all over the world (Biggest IC Design House in China), leading a lithography modeling group. 
 
-👨‍🎓 I graduated from [School of Electronic Science & Engineering](https://electronic.seu.edu.cn/dz_en/main.psp), Southeast University (SEU) with a bachelor's degree (2018) and a master's degree (2021), advised by Prof. [Tang Yongming (汤勇明)](https://electronic.seu.edu.cn/tym_en/list.htm). I also collaborate with [Wang Chengcheng (王成诚)]() working at [T-Head](https://www.t-head.cn/) <img src='images/T-Head.jpg' style="width: 5em;">, [Li He (李鹤)](https://display.seu.edu.cn/2023/0130/c44838a434097/page.htm) from [University of Cambridge](https://www.cam.ac.uk/) <img src='images/cambridge.jpg' style="width: 5em;">, and [Yu Feng (俞峰)]() from [NUS](https://www.nus.edu.sg/) <img src='images/nus.jpg' style="width: 2.5em;"> closely.
+👨‍🎓 I graduated from [School of Electronic Science & Engineering](https://electronic.seu.edu.cn/dz_en/main.psp), Southeast University (SEU) with a bachelor's degree (2018) and a master's degree (2021), advised by Prof. [Tang Yongming (汤勇明)](https://electronic.seu.edu.cn/tym_en/list.htm). I also collaborate with [Wang Chengcheng (王成诚)]() working at [T-Head](https://www.t-head.cn/) <img src='images/T-Head.jpg' style="width: 5em;">, [Li He (李鹤)](https://display.seu.edu.cn/2023/0130/c44838a434097/page.htm) from [University of Cambridge](https://www.cam.ac.uk/) <img src='images/cambridge.jpg' style="width: 5em;">, and [Yu Feng (俞峰)]() from [NUS](https://www.nus.edu.sg/) <img src='images/nus.jpg' style="width: 2em;"> closely.
 
-🎯 My research interest includes reconfigurable computing (especially using FPGA), image & video super-resolution (ISR & VSR), resolution enhancement technology (RET) and electronic design automation. Now, my current research direction is computational lithography in *Hisilicon*, which is also known as OPC in the field of semiconductor design and manufacturing. I have published 10+ papers <a href='https://scholar.google.com/citations?user=xzNONgcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fthmen%2Fthmen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="width: 6em;"></a> at the top international conferences such as ASAP, FCCM, ICCSS.
+🎯 My research interests include reconfigurable computing (especially using FPGA), image & video super-resolution (ISR & VSR), resolution enhancement technology (RET) and electronic design automation. Now, my current research interest is computational lithography in *Hisilicon*, which is also known as OPC in the field of semiconductor design and manufacturing. I have published 10+ papers <a href='https://scholar.google.com/citations?user=xzNONgcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fthmen%2Fthmen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="width: 6em;"></a> at the top international conferences such as ASAP, FCCM, ICCSS.
 
 ---
 
 ### 📇 Homepages
 - Personal Pages: 🔗 [thmen.github.io](https://thmen.github.io) (Updated Recently 🔥)
-- Google Scholar: 🎓 [my profile](https://scholar.google.com/citations?user=xzNONgcAAAAJ) (Welcome to Cite)
+- Google Scholar: 🎓 [my profile](https://scholar.google.com/citations?user=xzNONgcAAAAJ) (Welcome to CITE)
 <!-- - Linkedin: https://www.linkedin.com/in/xxx -->
 <!-- - DBLP: https://dblp.org/pid/xx/xxxx-x.html -->
 
@@ -69,4 +69,4 @@
 
 ![](http://profile-counter.glitch.me/thmen/count.svg)
 
-Please give me a **Star** ⭐ if you like~
+Please give me a [**Star**](https://github.com/Thmen/Thmen)⭐ if you like it~
